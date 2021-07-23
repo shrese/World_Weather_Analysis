@@ -16,7 +16,7 @@ We learned how to:
 
 
 
-I created trip itinerary to Africa by using weather data from a random number of cities selected from around the world.  The average temperature needed to be between 50 and 100 degrees. Also, randomly picked.
+I created trip itinerary to Africa by using weather data from a random number of cities selected from around the world.  My city selection was based on an average temperature between 50 and 100 degrees. Also, randomly picked.
 
 Below is a snapshot of my route:
 
