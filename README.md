@@ -8,11 +8,11 @@ We learned how to:
 2. Pull data down from the APIs.
 3. Use the retrieved data to create:
 
-        a. Sample the data
+    a. Sample the data
     
-        b. Create dataframes from the data
+    b. Create dataframes from the data
     
-        c. Various types of maps with google maps
+    c. Various types of maps with google maps
 
 
 
